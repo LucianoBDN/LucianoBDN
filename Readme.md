@@ -25,7 +25,7 @@
 
 - 📧 luciano.bordon438@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luciano-bordonn/)  
-- 🌐 Portfolio (En desarrollo)
+- 🌐 [Portfolio](https://portfolio-omega-dun-48.vercel.app/)
 
 ---
 
